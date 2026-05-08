@@ -6,3 +6,4 @@ def resta(a, b):
 
 def multiplicacion(a, b):
     return a * b
+salam
