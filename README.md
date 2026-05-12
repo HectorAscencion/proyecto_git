@@ -14,11 +14,12 @@ Repositorio de ejemplo para practicar Git, ramas, merges y commits.
 | 1 | Creación inicial del proyecto |
 | 2 | Agregado de funciones |
 | 3 | Uso de ramas y merges |
-
+| 4 | Comprobacion |
 ## Ramas
 
 - **main**: Rama principal
 - **rama1**: Rama secundaria para pruebas
+- **rama2**: Rama comprobacion final
 
 ## Cómo usar
 
